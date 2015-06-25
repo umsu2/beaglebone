@@ -3,3 +3,5 @@ git checkout -b ( creating new branch)
 git status
 git branch ( looking at current branch)
 git commit -m "message"
+git reset (git removes tracking of that file)
+
