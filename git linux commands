@@ -1,7 +1,8 @@
 git clone 
-git checkout -b ( creating new branch)
+git checkout -b ( creating new branch, checkout is what you use in a paritular change in a branch)
 git status
 git branch ( looking at current branch)
 git commit -m "message"
 git reset (git removes tracking of that file)
 git log (look at unmerged, or uncommitted items)
+git pull origin ( pull and merge changes )
